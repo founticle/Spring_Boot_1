@@ -4,7 +4,7 @@ To run the Spring boot project successfully, follow the intructions below:
 
 1. Create a folder and save the code files.
 2. Install Docker Desktop 
-  --> Install the WSL(Windows Subsystem for Linux), the documentation for installation of WSL-{https://learn.microsoft.com/en-us/windows/wsl/install}
+  --> Install the WSL(Windows Subsystem for Linux), the documentation for installation of WSL-{ https://learn.microsoft.com/en-us/windows/wsl/install }
   
   --> Restart PC after WSL intstallation.
   
