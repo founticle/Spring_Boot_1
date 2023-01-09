@@ -59,18 +59,16 @@ To run the Spring boot project successfully, follow the intructions below:
   --> Select GET and send request, you'll get the details of Martin and John.
   
   --> Select DELETE, in the URL add the ID of the customer (localhost:8080/api/v1/customers/1)
-  
       This deletes the info of John
       
   --> Select PUT, in the URL add the ID of the customer (localhost:8080/api/v1/customers/2)
-      enter the below code in script.
+      enter the below code in scriptand Send the request.
       
       {
         "name": "X",
         "age": 42
       }
       
-      Send the request
       
   --> Use GET request and get the updated Details.    
   
