@@ -37,7 +37,7 @@ To run the Spring boot project successfully, follow the intructions below:
   
   --> Go back to IDE, connect to database "customer".
   
-  --> \d customer to get the infor on columns
+  --> \d customer to get the information on columns
   
   --> use the Command - INSERT INTO customer(id, name, email, age) (press ENTER)
   
