@@ -4,7 +4,7 @@ To run the Spring boot project successfully, follow the intructions below:
 
 1. Clone the project(or)download as ZIP folder
 2. Install Docker Desktop 
-  --> Install the WSL(Windows Subsystem for Linux), the documentation for installation of WSL-{ https://learn.microsoft.com/en-us/windows/wsl/install }
+  --> Install the WSL(Windows Subsystem for Linux), the documentation for installation of WSL - { https://learn.microsoft.com/en-us/windows/wsl/install }
   
   --> Restart PC after WSL intstallation.
   
@@ -62,7 +62,7 @@ To run the Spring boot project successfully, follow the intructions below:
       This deletes the info of John
       
   --> Select PUT, in the URL add the ID of the customer (localhost:8080/api/v1/customers/2)
-      enter the below code in scriptand Send the request.
+      enter the below code in script and Send the request.
       
       {
         "name": "X",
