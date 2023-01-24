@@ -41,7 +41,7 @@ To run the Spring boot project successfully, follow the intructions below:
   
   --> use the Command - INSERT INTO customer(id, name, email, age) (press ENTER)
   
-  --> use the Command - VALUES (nextval('customer_id_sequence'), 'John', 'johndoe@gmail.com', 25);
+  --> use the Command - VALUES (nextval('customer_id_sequence'), 'John', 'johndoe@xyz.com', 25);
   
   --> Go back to Postman and resend the GET request, you'll find the details of John.
   
